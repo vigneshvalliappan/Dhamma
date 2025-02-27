@@ -4,18 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-17" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-17" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="60" y="30" width="660" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vZPkmDc1HkCrlw_ce-yA-17" source="vZPkmDc1HkCrlw_ce-yA-1" target="vZPkmDc1HkCrlw_ce-yA-15">
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="vZPkmDc1HkCrlw_ce-yA-17" source="vZPkmDc1HkCrlw_ce-yA-1" target="vZPkmDc1HkCrlw_ce-yA-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="518.5714285714286" y="476.66666666666686" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-1" value="Indulging in the conditioned phenomena of tanha (i.e. thirst/craving) perpetuates depenedence on (i.e. clinging to) the collection of conditioned pheonomena that are the 5 aggregates to provide satisfaction, forming self-identity in the process. There is no self-identity formation without the dependence.&amp;nbsp; &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(paticcasamuppada; 2nd Noble Truth)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E6FFCC,var(--ge-dark-color, #121212));" vertex="1" parent="vZPkmDc1HkCrlw_ce-yA-17">
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-1" value="Indulging in the conditioned phenomena of tanha (i.e. thirst/craving) perpetuates depenedence on (i.e. clinging to) the collection of conditioned pheonomena that are the 5 aggregates to provide satisfaction, forming self-identity in the process. There is no self-identity formation without the dependence.&amp;nbsp; &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(paticcasamuppada; 2nd Noble Truth)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E6FFCC,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="vZPkmDc1HkCrlw_ce-yA-17" vertex="1">
           <mxGeometry x="23.57" y="30.8" width="306.43" height="119.2" as="geometry" />
         </mxCell>
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-15" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="vZPkmDc1HkCrlw_ce-yA-17">
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-15" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="vZPkmDc1HkCrlw_ce-yA-17" vertex="1">
           <mxGeometry x="26.78" y="210" width="300" height="121.99" as="geometry" />
         </mxCell>
       </root>
