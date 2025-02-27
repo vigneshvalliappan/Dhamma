@@ -40,6 +40,12 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-46" value="panna/samma ditthi" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFCC99;gradientColor=none;strokeColor=#d6b656;shadow=0;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-47" value="" style="group;fillColor=#CCCCFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="530" width="1300" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-51" value="&lt;div&gt;application (overview)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,#5E3206);gradientColor=none;strokeColor=light-dark(#CC99FF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
