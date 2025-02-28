@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
   <diagram name="Page-1" id="TuVlbN-ZKWJk66FvhOgv">
-    <mxGraphModel dx="1346" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vZPkmDc1HkCrlw_ce-yA-17" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="50" width="1300" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="525.603076923077" y="-728.2352941176471" width="61.057692307692314" height="71.76470588235294" as="geometry" />
+          <mxGeometry y="50" width="1220" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="220" width="1160" height="140" as="geometry" />
+          <mxGeometry x="30" y="200" width="1160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vZPkmDc1HkCrlw_ce-yA-15" value="As self-identity merely hinges on dependence (i.e. clinging), the 5 aggregates are not-self (anatta&lt;sup&gt;1&lt;/sup&gt;). The dependence on/clinging to them results in unsatisfactoriness (dukkha) because they unreliable in providing satisfaction. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(1st Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="dFAU1SVFYO0GLhLQqhiY-28" vertex="1">
           <mxGeometry x="320" width="200" height="140" as="geometry" />
@@ -35,16 +32,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="575" y="-270" width="50" height="911.25" as="geometry" />
+          <mxGeometry x="578.13" y="-281.87" width="45" height="910" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-46" value="&lt;b&gt;&lt;u&gt;panna/samma ditthi&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFCC99;gradientColor=none;strokeColor=#d6b656;shadow=0;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-47" value="" style="group;fillColor=#CCCCFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="530" width="1300" height="390" as="geometry" />
+          <mxGeometry y="550" width="1220" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-51" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,#5E3206);gradientColor=none;strokeColor=light-dark(#CC99FF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-52" target="dFAU1SVFYO0GLhLQqhiY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-52" value="&lt;div&gt;In layperson speak, with respect to making progress in the practice/application of Dhamma, perhaps things can be distilled to the following single specific question: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;Q: What is one actually able to do at this present moment, without creating a dependence on anything/anyone else and eventually leading to dissatisfaction?&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="700" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-53" value="&lt;div&gt;In layperson speak, the answer to the question is perhaps the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: One can be aware/mindful (i.e. sati) during the present moment because awareness, unlike indulgence, does not create a dependence on anything/anyone else&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="700" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="1050" width="1220" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-4" target="dFAU1SVFYO0GLhLQqhiY-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="480" />
+              <mxPoint x="270" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are multiple ways through which one can become aware in the present moment. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability.&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1190" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-53" target="dFAU1SVFYO0GLhLQqhiY-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1170" />
+              <mxPoint x="590" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
