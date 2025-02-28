@@ -53,7 +53,7 @@
           <mxGeometry x="780" y="700" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="1050" width="1220" height="350" as="geometry" />
+          <mxGeometry y="1050" width="1220" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="540" y="1080" width="120" height="80" as="geometry" />
@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are multiple ways through which one can become aware in the present moment. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability.&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="1190" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-53" target="dFAU1SVFYO0GLhLQqhiY-76">
@@ -76,6 +76,9 @@
               <mxPoint x="590" y="1170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;1. When becoming aware, note that an indulgence has occurred&lt;/div&gt;&lt;div&gt;2. Recognize that the indulgence has created a dependence that has led to, or can lead to dissatisfaction&lt;/div&gt;&lt;div&gt;3. Recognize that it is possible to distance from the dependence; complication is an opportunity to practice rather than a problem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1400" width="300" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
