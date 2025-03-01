@@ -66,6 +66,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-76" target="dFAU1SVFYO0GLhLQqhiY-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="1190" width="300" height="150" as="geometry" />
         </mxCell>
@@ -78,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1390" width="600" height="450" as="geometry" />
+          <mxGeometry x="290" y="1410" width="600" height="450" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-82" value="Footnote 2: indulgence types" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="698" width="180" height="30" as="geometry" />
@@ -86,17 +89,23 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-83" value="Footnote 1: anatta " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1250" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Bhavana - non-sit&lt;sup&gt;3&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;4&lt;/sup&gt;) - awareness of the&amp;nbsp; implications of dependence&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dependence has implications both on other beings and ourselves.&lt;/li&gt;&lt;li&gt;Implications on other beings:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;When we depend on other beings on the basis of our 3 unwholesome roots and 5 hindrances for satisfaction/validation etc., we are essentially treating them as vessels for our satisfaction/validation.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Bhavana - non-sit&lt;sup&gt;4&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;5&lt;/sup&gt;) - awareness of the&amp;nbsp; implications of dependence&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dependence has implications both on other beings and ourselves.&lt;/li&gt;&lt;li&gt;Implications on other beings:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;When we depend on other beings on the basis of our 3 unwholesome roots and 5 hindrances for satisfaction/validation etc., we are essentially treating them as vessels for our satisfaction/validation.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="2000" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-86" value="Footnote 3: non-sit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1208" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-93" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/li&gt;&lt;li&gt;Note that the indulgence isn&#39;t harmless; it has consequences - i.e. &lt;br&gt;indulgence perpetuates dependence that has led to, or can lead to dukkha&lt;/li&gt;&lt;li&gt;Note that it is possible to reduce/eliminate the dependence perpetuated by the indulgence&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The awareness associated with paragraph 1 that kicked this off, is an opportunity to reduce dukkha rather than a problem.&lt;/li&gt;&lt;li&gt;Note that mindfulness of the body can help to locate and reduce any &lt;br&gt;heightened state (e.g. tension) associated with the indulgence and &lt;br&gt;dependence, to set the stage for the next step.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1440" width="490" height="180" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-93" target="dFAU1SVFYO0GLhLQqhiY-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-94" value="&lt;div align=&quot;left&quot;&gt;4. Note that when you leave your dependence alone (i.e. without further indulgence in the opposite direction of bhavana or sila), it will leave you alone - i.e. it can reduce and potentially be eliminated.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1675" width="380" height="60" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-93" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/li&gt;&lt;li&gt;Note that the indulgence isn&#39;t harmless; it has consequences - i.e. &lt;br&gt;indulgence perpetuates dependence that has led to, or can lead to dukkha&lt;/li&gt;&lt;li&gt;Note that it is possible to reduce/eliminate the dependence perpetuated by the indulgence&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The awareness associated with paragraph 1 that kicked this off, is an opportunity to reduce dukkha rather than a problem.&lt;/li&gt;&lt;li&gt;Note that mindfulness of the body can help to locate and reduce any &lt;br&gt;heightened state (e.g. tension) associated with the indulgence and &lt;br&gt;dependence, to set the stage for the next step.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1470" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-94" value="&lt;div align=&quot;left&quot;&gt;4. Note that when you leave your dependence alone (i.e. without further indulgence in the opposite direction of bhavana or sila), it will leave you alone - i.e. it can reduce and potentially be eliminated.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1700" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-97" value="&lt;u&gt;&lt;b&gt;Panna&lt;sup&gt;3&lt;/sup&gt; - non-sit: general steps&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1424" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
