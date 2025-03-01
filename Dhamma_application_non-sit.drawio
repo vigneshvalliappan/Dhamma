@@ -53,7 +53,7 @@
           <mxGeometry x="780" y="700" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="1050" width="1220" height="1120" as="geometry" />
+          <mxGeometry y="1050" width="1220" height="1310" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="540" y="1080" width="120" height="80" as="geometry" />
@@ -77,8 +77,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;General (uncategorized) steps&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/li&gt;&lt;li&gt;Note that the indulgence isn&#39;t harmless; it has consequences - i.e. indulgence perpetuates dependence that has led to, or can lead to dukkha&lt;/li&gt;&lt;li&gt;Note that it is possible to reduce/eliminate the dependence perpetuated by the indulgence&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The awareness associated with paragraph 1 that kicked this off, is an opportunity to reduce dukkha rather than a problem.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Note that mindfulness of the body can help to reduce the possible tension associated with the indulgence and dependence.&lt;/li&gt;&lt;li&gt;When you leave your dependence alone (i.e. without further indulgence in the opposite direction of bhavana or sila), it will leave you alone - i.e. it can reduce and potentially be eliminated.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1400" width="300" height="410" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1390" width="600" height="450" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-82" value="Footnote 2: indulgence types" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="698" width="180" height="30" as="geometry" />
@@ -86,11 +86,17 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-83" value="Footnote 1: anatta " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1250" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Bhavana - non-sit&lt;sup&gt;3&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;4&lt;/sup&gt;) - awareness of the&amp;nbsp; implications of dependence&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dependence has implications both on other beings and ourselves.&lt;/li&gt;&lt;li&gt;Implications on other beings:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;When we depend on other beings on the basis of our 3 unwholesome roots for satisfaction/validation etc., we are essentially treating them as vessels for our satisfaction/validation.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1860" width="300" height="300" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-84" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;u&gt;Bhavana - non-sit&lt;sup&gt;3&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;4&lt;/sup&gt;) - awareness of the&amp;nbsp; implications of dependence&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dependence has implications both on other beings and ourselves.&lt;/li&gt;&lt;li&gt;Implications on other beings:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;When we depend on other beings on the basis of our 3 unwholesome roots and 5 hindrances for satisfaction/validation etc., we are essentially treating them as vessels for our satisfaction/validation.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2000" width="300" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-86" value="Footnote 3: non-sit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1210" y="1208" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-93" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/li&gt;&lt;li&gt;Note that the indulgence isn&#39;t harmless; it has consequences - i.e. &lt;br&gt;indulgence perpetuates dependence that has led to, or can lead to dukkha&lt;/li&gt;&lt;li&gt;Note that it is possible to reduce/eliminate the dependence perpetuated by the indulgence&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The awareness associated with paragraph 1 that kicked this off, is an opportunity to reduce dukkha rather than a problem.&lt;/li&gt;&lt;li&gt;Note that mindfulness of the body can help to locate and reduce any &lt;br&gt;heightened state (e.g. tension) associated with the indulgence and &lt;br&gt;dependence, to set the stage for the next step.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1440" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-94" value="&lt;div align=&quot;left&quot;&gt;4. Note that when you leave your dependence alone (i.e. without further indulgence in the opposite direction of bhavana or sila), it will leave you alone - i.e. it can reduce and potentially be eliminated.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1675" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
