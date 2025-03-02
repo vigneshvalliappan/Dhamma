@@ -47,24 +47,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-52" value="&lt;div&gt;In layperson speak, with respect to making progress in the practice/application of Dhamma, perhaps things can be distilled to the following single specific question: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;Q: What is one actually able to do at this present moment, without creating a dependence on anything/anyone else and eventually leading to dissatisfaction?&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="700" width="300" height="140" as="geometry" />
+          <mxGeometry x="100" y="700" width="350" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-53" value="&lt;div&gt;In layperson speak, the answer to the question is perhaps the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: One can be aware/mindful (i.e. sati) during the present moment because awareness, unlike indulgence&lt;sup&gt;2&lt;/sup&gt;, does not create a dependence on anything/anyone else (i.e. let go of tanha rather than indulging).&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="700" width="300" height="140" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-53" value="&lt;div&gt;In layperson speak, the answer to the question is perhaps the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: One can be aware/mindful (i.e. sati) during the present moment because awareness, unlike indulgence&lt;sup&gt;2&lt;/sup&gt;, does not create a dependence on anything/anyone else (i.e. let go of tanha rather than indulging). Further, it is important to note that one cannot will oneself out of dependence, as will itself is conditionally arisen. &lt;br&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="700" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry y="1050" width="1220" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
           <mxGeometry x="540" y="1080" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-4" target="dFAU1SVFYO0GLhLQqhiY-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1065" y="480" />
-              <mxPoint x="270" y="480" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-76" target="dFAU1SVFYO0GLhLQqhiY-81">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +127,14 @@
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-110" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the formulation of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit&lt;sup&gt;5&lt;/sup&gt; (anatta/anicca&lt;sup&gt;6&lt;/sup&gt;)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-108">
           <mxGeometry x="25" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-4" target="dFAU1SVFYO0GLhLQqhiY-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="480" />
+              <mxPoint x="275" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
