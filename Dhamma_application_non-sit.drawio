@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
   <diagram name="Page-1" id="TuVlbN-ZKWJk66FvhOgv">
-    <mxGraphModel dx="1346" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,18 +52,6 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-53" value="&lt;div&gt;In layperson speak, the answer to the question is perhaps the following: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: One can be aware/mindful (i.e. sati) during the present moment because awareness, unlike indulgence&lt;sup&gt;2&lt;/sup&gt;, does not create a dependence on anything/anyone else (i.e. let go of tanha rather than indulging). Further, it is important to note that one cannot will oneself out of dependence, as will (i.e. sankhara) itself is conditionally arisen. &lt;br&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="700" width="350" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="1050" width="1220" height="1510" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1080" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-76" target="dFAU1SVFYO0GLhLQqhiY-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1190" width="300" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-53" target="dFAU1SVFYO0GLhLQqhiY-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -72,14 +60,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-82" value="Margin commentary 2: indulgence types" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="698" width="240" height="30" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-4" target="dFAU1SVFYO0GLhLQqhiY-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1065" y="480" />
+              <mxPoint x="275" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-86" value="Margin Commentary 3: panna - not all of it is panna; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1208" width="300" height="30" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-113" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margin commentary 1: anatta &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margin Commentary 0: 5 aggregates - near and far; inferior and superior to make a connection with the internal and external sense bases ; also recognize that we don&#39;t really care about certain types of impermanent things - e.g. grass that is wet outside due to rain is an example of impermanence, but we don&#39;t care about it because we don&#39;t consider it to be us and it has no bearing on our sense of self-identity, but on the other hand, if something triggers our aversion or greed, we care about it a lot because it affects our sense of self; switch this to margin commentary 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="180" width="550" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-102" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="1400" width="600" height="350" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-114" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="group;fillColor=#FFAC1E;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;align=left;whiteSpace=wrap;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1360" y="38" width="400" height="1062" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-115" value="&lt;b&gt;&lt;u&gt;margin commentary&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFBC05;gradientColor=none;strokeColor=#FF9307;shadow=0;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-116" value="&lt;ol&gt;&lt;li&gt;The impermanence (anicca) teaching and the not-self (anatta) teaching are intertwined. The following is some commentary on them:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Conditioned phenomena are subject to conditioning because of impermanence; when one becomes dependent on (i.e. cling to) the collection of conditioned phenomena that are the 5 aggregates to provide satisfaction, one forms self-identity in the process; thus, without anicca, there would be no anatta teaching.&amp;nbsp;&lt;/li&gt;&lt;li&gt;On the other hand, impermanence on its own does not result in dukkha; it&#39;s the dependence on (i.e. clinging to) the 5 aggregates (which are conditioned on impermanent phenomena and impermanent themselves) for satisfaction that results in dukkha.&amp;nbsp;&lt;/li&gt;&lt;li&gt;It may be useful to appreciate anatta more clearly as follows: The large majority of combinations of the 5 aggregates don&#39;t matter to us (i.e. they don&#39;t serve or threaten our agenda) in our sense-base experience, even though they are impermanent/conditioned phenomena; owing to them not serving or threatening our agenda, they don&#39;t arise as part of our self-identity; however, the particular combinations of the 5 aggregates that do serve or threaten our agenda in terms of our tanha or preferences (e.g. attraction, aversion etc.) arise as part of our self-identity, as a matter of indulgence with respect to them, and resulting dependence perpetuated with respect to them, eventually leading to dukkha. Thus, the above clarifies that impermanence on its own does not cause dukkha; it&#39;s the dependence on certain types of impermanent phenomena (i.e. very particular combinations of the 5 aggregates) that serve or threaten our agenda, forming a self-identity in the process, that causes us dukkha, as such phenomena are unreliable in providing satisfaction. Thus, the Buddha provides the remedy in reverse - recognize that the self-identity around particular combinations of the 5 aggregates is something an impermanent/conditioned phenomena that arose concurrent with indulgence and dependence in tanha or preferences - it is this recognition that is the not-self teaching.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Margin commentary 2: indulgence types&lt;/li&gt;&lt;li&gt;Margin Commentary 3: panna - not all of it is panna; &lt;br&gt;&lt;/li&gt;&lt;li&gt;Margin Commentary 4: non-sit&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="237" width="330" height="753" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="1050" width="1220" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-61" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry width="1220" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="540" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="440" y="140" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-102" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="290" y="350" width="600" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-102">
           <mxGeometry width="600" height="350" as="geometry" />
@@ -96,19 +110,8 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-102" source="dFAU1SVFYO0GLhLQqhiY-93" target="dFAU1SVFYO0GLhLQqhiY-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-94" target="dFAU1SVFYO0GLhLQqhiY-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="590" y="1760" />
-              <mxPoint x="180" y="1760" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-103" value="Margin Commentary 4: non-sit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="1250" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-107" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="1800" width="300" height="660" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-107" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="30" y="750" width="300" height="660" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-84" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dependence has implications both on other beings and ourselves, the latter already having been discussed in the sections with respect to panna. &lt;br&gt;&lt;/li&gt;&lt;li&gt;Thus, at the moment of awareness, it is useful to reflect on the implications on other beings:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;When one depends on other beings on the basis of our 3 unwholesome roots and 5 hindrances for satisfaction/validation etc., one is essentially treating them, subtly or otherwise, as vessels for our satisfaction/validation.&lt;/li&gt;&lt;li&gt;Dependence also creates misperception about the situation at hand, inaccurately attributing characteristics (be it positive, negative, etc.) to other people and situations.&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Other beings are suffering, and deserving of one&#39;s fullest expression of the brahmaviharas (i.e. metta, karuna, mudita, upekkha). Our dependence, however, as illustrated by the implications, have the opposite effect.&lt;/li&gt;&lt;li&gt;Thus, the most compassionate thing one can do with respect to others, is to stop further indulgence that perpetuates the dependence - that in and of itself is a compassionate thought, even if there is no suitable way to express compassionate speech and action.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;At its zenith, the brahmaviharas culminate with equanimity, which also appears to be the last-listed factor of awakening and last-listed parami - with equanimity, there are no preferences with respect to all conditioned phenomena (e.g. navigating situations, objects, and people are no longer subjected to one&#39;s greed and aversion); in doing so, it appears to culminate with the not-self (see margin commentary)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;GRATEFULNESS&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-107">
           <mxGeometry width="300" height="660" as="geometry" />
@@ -116,8 +119,8 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-105" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the implications of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit&lt;sup&gt;5&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;6&lt;/sup&gt;)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-107">
           <mxGeometry x="25" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-108" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="460" y="1800" width="300" height="660" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-108" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="460" y="750" width="300" height="660" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-109" value="&lt;div&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;At the moment of awareness, reflect on the self-identity/image that had arisen, but did not get satisfied/validated, thus resulting in indulgence.&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Note that this self-identity/image can take many forms. One example of this may be where a self-identity/image of someone who embodies positive qualities has arisen, but when the world does not validate one as possessing those qualities, indulgence, dependence, and dukkha ensue.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;The above is perhaps loosely associated with mindfulness of Dhamma in the four foundations of mindfulness&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;At the moment of awareness, recognize the mental states/formations/factors (i.e. citta sankhara) that have arisen along with the feeling tone (i.e. vedana), associated with the indulgence - as a part of this practice, it may be useful to review the various classified mental states; reviewing them can for example bring to our awareness with greater clarity certain unwholesome mental states that we have indeed arisen but have not been acutely aware of; recognizing the arisen unwholesome feeling tones and the mental states at the point of awareness can assist with their fading away, which would be an expression of samma vayamo (right effort).&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The above is perhaps loosely associated with the mindfulness of vedana and mindfulness of citta &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;At the moment of awareness, particularly with respect to situations involving our body (e.g. when looking in the mirror), mindfulness of body can be helpful in recalling anatta and anicca with respect to the body.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Refer to MARGIN COMMENTARY 0&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;prefering meditative state to thoughts?&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-108">
           <mxGeometry width="300" height="660" as="geometry" />
@@ -125,28 +128,78 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-110" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the formulation of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit&lt;sup&gt;5&lt;/sup&gt; (anatta/anicca&lt;sup&gt;6&lt;/sup&gt;)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-108">
           <mxGeometry x="25" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-4" target="dFAU1SVFYO0GLhLQqhiY-52">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-112" value="&lt;div&gt;sit - brief notes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="950" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-76" target="dFAU1SVFYO0GLhLQqhiY-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-94" target="dFAU1SVFYO0GLhLQqhiY-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1065" y="480" />
-              <mxPoint x="275" y="480" />
+              <mxPoint x="590" y="710" />
+              <mxPoint x="180" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-112" value="&lt;div&gt;sit - brief notes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1320" width="60" height="30" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="2680" width="1220" height="1510" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-113" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margin commentary 1: anatta &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margin Commentary 0: 5 aggregates - near and far; inferior and superior to make a connection with the internal and external sense bases ; also recognize that we don&#39;t really care about certain types of impermanent things - e.g. grass that is wet outside due to rain is an example of impermanence, but we don&#39;t care about it because we don&#39;t consider it to be us and it has no bearing on our sense of self-identity, but on the other hand, if something triggers our aversion or greed, we care about it a lot because it affects our sense of self; switch this to margin commentary 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2470" y="180" width="550" height="240" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-119" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry width="1220" height="1510" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-114" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="group;fillColor=#FFAC1E;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;align=left;whiteSpace=wrap;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1360" y="38" width="400" height="1062" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-120" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (example)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="540" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-115" value="&lt;b&gt;&lt;u&gt;margin commentary&lt;/u&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFBC05;gradientColor=none;strokeColor=#FF9307;shadow=0;fillStyle=dashed;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-121" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="440" y="140" width="300" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-116" value="&lt;ol&gt;&lt;li&gt;The impermanence (anicca) teaching and the not-self (anatta) teaching are intertwined. The following is some commentary on them:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Conditioned phenomena are subject to conditioning because of impermanence; when one becomes dependent on (i.e. cling to) the collection of conditioned phenomena that are the 5 aggregates to provide satisfaction, one forms self-identity in the process; thus, without anicca, there would be no anatta teaching.&amp;nbsp;&lt;/li&gt;&lt;li&gt;On the other hand, impermanence on its own does not result in dukkha; it&#39;s the dependence on (i.e. clinging to) the 5 aggregates (which are conditioned on impermanent phenomena and impermanent themselves) for satisfaction that results in dukkha.&amp;nbsp;&lt;/li&gt;&lt;li&gt;It may be useful to appreciate anatta more clearly as follows: The large majority of combinations of the 5 aggregates don&#39;t matter to us (i.e. they don&#39;t serve or threaten our agenda) in our sense-base experience, even though they are impermanent/conditioned phenomena; owing to them not serving or threatening our agenda, they don&#39;t arise as part of our self-identity; however, the particular combinations of the 5 aggregates that do serve or threaten our agenda in terms of our tanha or preferences (e.g. attraction, aversion etc.) arise as part of our self-identity, as a matter of indulgence with respect to them, and resulting dependence perpetuated with respect to them, eventually leading to dukkha. Thus, the above clarifies that impermanence on its own does not cause dukkha; it&#39;s the dependence on certain types of impermanent phenomena (i.e. very particular combinations of the 5 aggregates) that serve or threaten our agenda, forming a self-identity in the process, that causes us dukkha, as such phenomena are unreliable in providing satisfaction. Thus, the Buddha provides the remedy in reverse - recognize that the self-identity around particular combinations of the 5 aggregates is something an impermanent/conditioned phenomena that arose concurrent with indulgence and dependence in tanha or preferences - it is this recognition that is the not-self teaching. Given that the particular combination of 5 aggregates is&amp;nbsp; - specifically the particular combinations of the 5 aggregates that we form a self-identity as a matter of indulgence and dependence on them. It is in recognition of this, that the not-self teaching is very valuable - where the is no indulgence in tanha or preferences, no dependence and self-identity formation &amp;nbsp; - for example, the leaves on a tree that is outside the building that one is residing in may be wetter now than it was an hour ago, if it had just rained. However, the impermanence of the leaves&#39; dryness/wetness isn&#39;t something that necessarily bothers us - it is not something one may associate with self-identity. In contrast, if one is worried about what someone else thinks about them, impermanence notwithstanding, that starts to form part of one&#39;s self-identity; More specifically, the feeling tones, mental states, perceptions, bodily tension, sense-base consciousness, aggregated for both what we may conventionally see as ourselves and others, starts to both become part of our self-identity. In other words, if others&#39; opinions (i.e. sanna) of us matter to us and if we are concerned about the mental states (i.e. citta sankhara) they inhabit that may lead them to take a particular action, then those become a part of our self-identity, in addition to what we may conventionally consider ; thus, it is &lt;br&gt;&lt;/li&gt;&lt;li&gt;This impermanence is not something it is only the phenomena that matters to us in terms of our preferences (e.g. aversion, attraction etc.), that forms part of our self-identity - these include both ;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="237" width="330" height="753" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-122" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="290" y="350" width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-123" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-122">
+          <mxGeometry width="600" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-124" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/li&gt;&lt;li&gt;Note that the indulgence isn&#39;t harmless; it has consequences&lt;sup&gt;4&lt;/sup&gt; - i.e. &lt;br&gt;indulgence perpetuates dependence that has led to, or can lead to dukkha&lt;/li&gt;&lt;li&gt;Note that it is possible to reduce/eliminate the dependence perpetuated by the indulgence, and thus reduce/eliminate dukkha&lt;/li&gt;&lt;ol&gt;&lt;li&gt;The awareness associated with paragraph 1 that kicked this off, is an opportunity to reduce dukkha rather than a problem.&lt;/li&gt;&lt;li&gt;Note that mindfulness of the body can help to locate and reduce any &lt;br&gt;heightened state (e.g. tension) associated with the indulgence and &lt;br&gt;dependence, to set the stage for the next step.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-122">
+          <mxGeometry x="55" y="50" width="490" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-125" value="&lt;div align=&quot;left&quot;&gt;4. Note that when one leaves one&#39;s dependence alone (i.e. without further indulgence away from bhavana and sila), it will leave one alone - i.e. it can reduce and potentially be eliminated. Concurrent to leaving one&#39;s dependence alone, daily activities are engaged in, with awareness.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-122">
+          <mxGeometry x="110" y="260" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-126" value="&lt;u&gt;&lt;b&gt;General steps [&lt;i&gt;type&lt;/i&gt;: &lt;/b&gt;&lt;/u&gt;&lt;u&gt;&lt;b&gt;Panna&lt;sup&gt;3&lt;/sup&gt;] &lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-122">
+          <mxGeometry x="185" y="10" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-122" source="dFAU1SVFYO0GLhLQqhiY-124" target="dFAU1SVFYO0GLhLQqhiY-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-128" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="30" y="750" width="300" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-129" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;scenaios&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-128">
+          <mxGeometry width="300" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-130" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the implications of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit&lt;sup&gt;5&lt;/sup&gt; (Brahmaviharas&lt;sup&gt;6&lt;/sup&gt;)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-128">
+          <mxGeometry x="25" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-131" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="460" y="750" width="300" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-132" value="&lt;div&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;for example, the leaves on a tree that is outside the building that one &lt;br/&gt;is residing in may be wetter now than it was an hour ago, if it had just&lt;br/&gt; rained. However, the impermanence of the leaves&#39; dryness/wetness isn&#39;t &lt;br/&gt;something that necessarily bothers us - it is not something one may &lt;br/&gt;associate with self-identity. In contrast, if one is worried about what &lt;br/&gt;someone else thinks about them, impermanence notwithstanding, that &lt;br/&gt;starts to form part of one&#39;s self-identity; More specifically, the &lt;br/&gt;feeling tones, mental states, perceptions, bodily tension, sense-base &lt;br/&gt;consciousness, aggregated for both what we may conventionally see as &lt;br/&gt;ourselves and others, starts to both become part of our self-identity. &lt;br/&gt;In other words, if others&#39; opinions (i.e. sanna) of us matter to us and &lt;br/&gt;if we are concerned about the mental states (i.e. citta sankhara) they &lt;br/&gt;inhabit that may lead them to take a particular action, then those &lt;br/&gt;become a part of our self-identity, in addition to what we may &lt;br/&gt;conventionally consider ; thus, it is &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-131">
+          <mxGeometry width="300" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-133" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the formulation of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit&lt;sup&gt;5&lt;/sup&gt; (anatta/anicca&lt;sup&gt;6&lt;/sup&gt;)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-131">
+          <mxGeometry x="25" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-118" source="dFAU1SVFYO0GLhLQqhiY-121" target="dFAU1SVFYO0GLhLQqhiY-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-118" source="dFAU1SVFYO0GLhLQqhiY-125" target="dFAU1SVFYO0GLhLQqhiY-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="710" />
+              <mxPoint x="180" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
