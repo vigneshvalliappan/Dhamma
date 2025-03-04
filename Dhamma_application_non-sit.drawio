@@ -76,13 +76,13 @@
           <mxGeometry width="1220" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-62" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (overview)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
-          <mxGeometry x="540" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-76" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
-          <mxGeometry x="440" y="140" width="300" height="150" as="geometry" />
+          <mxGeometry x="450" y="140" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-102" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-117">
-          <mxGeometry x="290" y="350" width="600" height="350" as="geometry" />
+          <mxGeometry x="300" y="350" width="600" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-102">
           <mxGeometry width="600" height="350" as="geometry" />
@@ -131,20 +131,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-118" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-118" value="" style="group;fillColor=none;glass=1;shadow=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="2680" width="1220" height="1510" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-119" value="" style="group;fillColor=#CCFFFF;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-119" value="" style="group;fillColor=#FFCCCC;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
           <mxGeometry width="1220" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-120" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (example)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#99FFFF,#5E3206);gradientColor=none;strokeColor=light-dark(#99FFFF,#6D5100);shadow=0;fillStyle=dashed;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-118">
           <mxGeometry x="540" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-121" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: How to become more aware during the present moment?&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: There are several ways. We are all unique, and perhaps we may rely on certain ways more than others at different stages, or a combination of ways, depending on suitability. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following are some ways that help me, at the point of awareness currently, to increase awareness going forward:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-118">
-          <mxGeometry x="440" y="140" width="300" height="150" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-121" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: Is there an example where the application technique (overview) can be expanded upon and applied ? &lt;br&gt;&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: The application technique (overview) can be applied to m&lt;/i&gt;&lt;/u&gt;&lt;u&gt;&lt;i&gt;any types of indulgences in day-to-day non-sit settings&lt;/i&gt;&lt;/u&gt;&lt;u&gt;&lt;i&gt; that involve the unwholesome roots and hindrances. &lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;The following is a specific example with respect to worry (i.e. one of the 5 hindrances); the specific kind of worry discussed is the worry associated with negative judgment (or lack of positive validation) by other individuals, groups, and society at large:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#99FFFF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-118">
+          <mxGeometry x="350" y="140" width="500" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-122" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
-          <mxGeometry x="290" y="350" width="600" height="350" as="geometry" />
+          <mxGeometry x="300" y="350" width="600" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-123" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-122">
           <mxGeometry width="600" height="350" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-128" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
-          <mxGeometry x="30" y="750" width="300" height="660" as="geometry" />
+          <mxGeometry x="30" y="790" width="300" height="660" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-129" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;scenaios&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-128">
           <mxGeometry width="300" height="660" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry x="25" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-131" value="" style="group" vertex="1" connectable="0" parent="dFAU1SVFYO0GLhLQqhiY-118">
-          <mxGeometry x="460" y="750" width="300" height="660" as="geometry" />
+          <mxGeometry x="460" y="790" width="300" height="660" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-132" value="&lt;div&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;for example, the leaves on a tree that is outside the building that one &lt;br/&gt;is residing in may be wetter now than it was an hour ago, if it had just&lt;br/&gt; rained. However, the impermanence of the leaves&#39; dryness/wetness isn&#39;t &lt;br/&gt;something that necessarily bothers us - it is not something one may &lt;br/&gt;associate with self-identity. In contrast, if one is worried about what &lt;br/&gt;someone else thinks about them, impermanence notwithstanding, that &lt;br/&gt;starts to form part of one&#39;s self-identity; More specifically, the &lt;br/&gt;feeling tones, mental states, perceptions, bodily tension, sense-base &lt;br/&gt;consciousness, aggregated for both what we may conventionally see as &lt;br/&gt;ourselves and others, starts to both become part of our self-identity. &lt;br/&gt;In other words, if others&#39; opinions (i.e. sanna) of us matter to us and &lt;br/&gt;if we are concerned about the mental states (i.e. citta sankhara) they &lt;br/&gt;inhabit that may lead them to take a particular action, then those &lt;br/&gt;become a part of our self-identity, in addition to what we may &lt;br/&gt;conventionally consider ; thus, it is &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-131">
           <mxGeometry width="300" height="660" as="geometry" />
@@ -190,11 +190,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-53" target="dFAU1SVFYO0GLhLQqhiY-76">
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-53" target="dFAU1SVFYO0GLhLQqhiY-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="1170" />
-              <mxPoint x="590" y="1170" />
+              <mxPoint x="955" y="1170" />
+              <mxPoint x="600" y="1170" />
             </Array>
           </mxGeometry>
         </mxCell>
