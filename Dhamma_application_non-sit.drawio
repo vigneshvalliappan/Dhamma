@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
   <diagram name="Page-1" id="TuVlbN-ZKWJk66FvhOgv">
-    <mxGraphModel dx="1420" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,10 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-81" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#A8E2FF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
-          <mxGeometry x="100" y="350" width="1000" height="350" as="geometry" />
+          <mxGeometry x="50" y="340" width="1100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-93" value="&lt;div align=&quot;center&quot;&gt;When becoming aware, note that an indulgence&lt;sup&gt;2&lt;/sup&gt; has occurred&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;glass=0;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
           <mxGeometry x="400" y="360" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-94" target="dFAU1SVFYO0GLhLQqhiY-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-94" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Note that when one leaves one&#39;s dependence alone (i.e. without further indulgence in tanha, away from bhavana and sila), it will leave one alone - i.e. it can reduce and potentially be eliminated. Concurrent to leaving one&#39;s dependence alone, daily activities are engaged in, with awareness. &lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;[inspired by 4th NT]&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
           <mxGeometry x="152.5" y="610" width="400" height="80" as="geometry" />
@@ -129,19 +132,23 @@
             <mxPoint x="599.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-94" target="dFAU1SVFYO0GLhLQqhiY-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="710" />
-              <mxPoint x="180" y="710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-148" value="&lt;u&gt;&lt;b&gt;General steps [&lt;i&gt;type&lt;/i&gt;: &lt;/b&gt;&lt;/u&gt;&lt;u&gt;&lt;b&gt;Panna&lt;sup&gt;3&lt;/sup&gt; - affirming] &lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
           <mxGeometry x="720" y="420" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-149" value="&lt;ol&gt;&lt;li&gt;It can be useful to recognize that one may fall into the trap of using techniques to try and &quot;solve&quot; or &quot;fix&quot; something &quot;wrong&quot; with one to alleviate dukkha. However, this may not actually work in reducing dukkha, because instead of letting go, this may morph into another indulgence in tanha, that could include mental proliferation (papanca), loathing, ill-will etc. Instead, to expand on the step inspired by the 3rd NT, note that affirming language such as the following can be helpful with respect to our practice:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;One has the full capacity to rest completely in awareness because the self-identity associated with particular combinations of the 5 aggregates is a result of conditional arising (inspired by paticcasamuppada) rather than ; The following are some helpful phrases to recall at the moment of awareness:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&quot;am contented&quot; - some expression of alobha and adosa&lt;/li&gt;&lt;li&gt;&quot;am steady and unshaken&quot; - upekkha&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
-          <mxGeometry x="620" y="450" width="450" height="240" as="geometry" />
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-149" value="&lt;ol&gt;&lt;li&gt;It can be useful to recognize that one may fall into the trap of using techniques to try and &quot;solve&quot; or &quot;fix&quot; something &quot;wrong&quot; with one to alleviate dukkha. However, this may not actually work in reducing dukkha, because instead of letting go, this may morph into another indulgence in tanha, that could include mental proliferation (papanca), loathing, ill-will etc. Instead, to expand on the step inspired by the 3rd NT, note that affirming language such as the following can be helpful with respect to our practice:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;One has the full capacity to rest completely in awareness because the self-identity associated with particular combinations of the 5 aggregates is a result of conditional arising (inspired by paticcasamuppada) rather than inherent; The following are some helpful phrases to recall at the moment of awareness, with respect to wholesome states:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&quot;am contented&quot; - an expression of alobha and adosa&lt;/li&gt;&lt;li&gt;&quot;am steady and unshaken&quot; - an expression of upekkha&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;One can relax, by using mindfulness of body (including breathing) to help locate and reduce the bodily tension from the heightened state associated with the indulgence and dependence.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="dFAU1SVFYO0GLhLQqhiY-117">
+          <mxGeometry x="620" y="450" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-154" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-144" target="dFAU1SVFYO0GLhLQqhiY-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="650" as="sourcePoint" />
+            <mxPoint x="680" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-157" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dFAU1SVFYO0GLhLQqhiY-117" source="dFAU1SVFYO0GLhLQqhiY-149" target="dFAU1SVFYO0GLhLQqhiY-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="650" as="sourcePoint" />
+            <mxPoint x="680" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-118" value="" style="group;fillColor=none;glass=1;shadow=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="2680" width="1220" height="1510" as="geometry" />
