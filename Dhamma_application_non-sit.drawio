@@ -7,30 +7,6 @@
         <mxCell id="vZPkmDc1HkCrlw_ce-yA-17" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry y="50" width="1220" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-28" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="30" y="200" width="1160" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-15" value="As self-identity merely hinges on dependence (i.e. clinging), the particular combinations of 5 aggregates are not-self (anatta&lt;sup&gt;1&lt;/sup&gt;). The dependence on/clinging to them results in unsatisfactoriness (dukkha) because they unreliable in providing satisfaction. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(1st Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="dFAU1SVFYO0GLhLQqhiY-28" vertex="1">
-          <mxGeometry x="320" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-1" value="To reduce/eliminate dukkha, the dependence on (i.e. clinging to) such conditioned phenomena (i.e. particular combinations of the 5 aggregates) needs to be reduced/eliminated, and in order to reduce/eliminate the dependence, the conditioned phenomena of tanha needs to be reduced/eliminated. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;paticcasamuppada; &lt;/span&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;3rd Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="dFAU1SVFYO0GLhLQqhiY-28" vertex="1">
-          <mxGeometry x="590" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-4" value="To reduce/eliminate the conditioned phenomena of tanha, instead of indulging it, one has to let go of it or in other words, rest in awareness in the present (i.e. sati). &amp;nbsp;&lt;br&gt;Whenever one indulges in tanha, one is no longer letting go of it in the mind, speech, and action, resting in awareness in the present (i.e. sati), adopting the Middle Way, Noble 8-fold Path. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(4th Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="dFAU1SVFYO0GLhLQqhiY-28" vertex="1">
-          <mxGeometry x="910" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="vZPkmDc1HkCrlw_ce-yA-1" value="Indulging in the conditioned phenomena of tanha (i.e. thirst/craving) perpetuates self-identity (i.e. clinging to particular combinations of the 5 aggregates which are conditioned phenomena) &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(paticcasamuppada; 2nd Noble Truth)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E6FFCC,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="dFAU1SVFYO0GLhLQqhiY-28" vertex="1">
-          <mxGeometry width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dFAU1SVFYO0GLhLQqhiY-28" source="vZPkmDc1HkCrlw_ce-yA-15" target="dFAU1SVFYO0GLhLQqhiY-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dFAU1SVFYO0GLhLQqhiY-28" source="dFAU1SVFYO0GLhLQqhiY-1" target="dFAU1SVFYO0GLhLQqhiY-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dFAU1SVFYO0GLhLQqhiY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dFAU1SVFYO0GLhLQqhiY-28" source="vZPkmDc1HkCrlw_ce-yA-1" target="vZPkmDc1HkCrlw_ce-yA-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="578.13" y="-281.87" width="45" height="910" as="geometry" />
         </mxCell>
@@ -226,6 +202,30 @@
               <mxPoint x="600" y="1190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R_Yq7bSZIYQy-dywGom7-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="200" width="1200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-15" value="Self-identity necessarily requires satisfaction/validation, and is dependent on conditioned phenomena to provide such satisfaction/validation. However, conditioned phenomena are unreliable in providing satisfaction/validation, and hence there is unsatisfactoriness (dukkha). &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(1st Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="R_Yq7bSZIYQy-dywGom7-7" vertex="1">
+          <mxGeometry x="340" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-1" value="To reduce/eliminate dukkha, the dependence on (i.e. clinging to) such conditioned phenomena (i.e. particular combinations of the 5 aggregates) needs to be reduced/eliminated, and in order to reduce/eliminate the dependence, the conditioned phenomena of tanha needs to be reduced/eliminated. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;paticcasamuppada; &lt;/span&gt;&lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;3rd Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="R_Yq7bSZIYQy-dywGom7-7" vertex="1">
+          <mxGeometry x="610" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-4" value="To reduce/eliminate the conditioned phenomena of tanha, instead of indulging it, one has to let go of it or in other words, rest in awareness in the present (i.e. sati). &amp;nbsp;&lt;br&gt;Whenever one indulges in tanha, one is no longer letting go of it in the mind, speech, and action, resting in awareness in the present (i.e. sati), adopting the Middle Way, Noble 8-fold Path. &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(4th Noble Truth)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=light-dark(#E6FFCC,#000000);strokeColor=none;gradientColor=none;glass=1;dashed=1;dashPattern=8 8;align=left;" parent="R_Yq7bSZIYQy-dywGom7-7" vertex="1">
+          <mxGeometry x="930" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vZPkmDc1HkCrlw_ce-yA-1" value="Indulging in the conditioned phenomena of tanha (i.e. thirst/craving) perpetuates the arising of self-identity (i.e. clinging to particular combinations of the 5 aggregates that are also conditioned phenomena) and is the origin of dukkha &lt;span style=&quot;color: rgb(204, 0, 0);&quot;&gt;(paticcasamuppada, 2nd Noble Truth)&lt;/span&gt;. As self-identity merely hinges on tanha, which itself is conditioned phenomena, any arisen combination of the 5 aggregates is not-self (anatta&lt;sup&gt;1&lt;/sup&gt;)." style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#E6FFCC,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="R_Yq7bSZIYQy-dywGom7-7" vertex="1">
+          <mxGeometry width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="R_Yq7bSZIYQy-dywGom7-7" source="vZPkmDc1HkCrlw_ce-yA-15" target="dFAU1SVFYO0GLhLQqhiY-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="R_Yq7bSZIYQy-dywGom7-7" source="dFAU1SVFYO0GLhLQqhiY-1" target="dFAU1SVFYO0GLhLQqhiY-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dFAU1SVFYO0GLhLQqhiY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="R_Yq7bSZIYQy-dywGom7-7" source="vZPkmDc1HkCrlw_ce-yA-1" target="vZPkmDc1HkCrlw_ce-yA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
