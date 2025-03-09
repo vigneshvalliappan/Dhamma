@@ -203,6 +203,15 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dFAU1SVFYO0GLhLQqhiY-121" target="dFAU1SVFYO0GLhLQqhiY-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CganYGnzPrQPjIpZM7JK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-123" target="dFAU1SVFYO0GLhLQqhiY-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CganYGnzPrQPjIpZM7JK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-123" target="dFAU1SVFYO0GLhLQqhiY-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CganYGnzPrQPjIpZM7JK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-123" target="R_Yq7bSZIYQy-dywGom7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-123" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="3430" width="600" height="200" as="geometry" />
         </mxCell>
@@ -228,13 +237,13 @@
           <mxGeometry x="885" y="3697.5" width="260" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1" y="4700" width="580" height="60" as="geometry" />
+          <mxGeometry x="1" y="4700" width="580" height="110" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
-          <mxGeometry width="580" height="60" as="geometry" />
+          <mxGeometry width="580" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="R_Yq7bSZIYQy-dywGom7-10" value="&lt;div align=&quot;left&quot;&gt;Compiled by Vignesh based on a beginner&#39;s understanding of the Buddha Dhamma - March 7, 2025&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
-          <mxGeometry x="20" y="15" width="550" height="30" as="geometry" />
+        <mxCell id="R_Yq7bSZIYQy-dywGom7-10" value="&lt;div align=&quot;left&quot;&gt;Compiled by Vignesh based on a beginner&#39;s understanding of the Buddha Dhamma&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1: March 7, 2025&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v2: March 9, 2025 (some edits to General panna steps in application technique (overview); adding mindfulness of sanna to anatta/anicca portions of the application technique (overview) section and elaborating further on sanna in application technique (example) section)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
+          <mxGeometry x="20" y="16.25" width="550" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="dFAU1SVFYO0GLhLQqhiY-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
