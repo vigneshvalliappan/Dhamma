@@ -245,23 +245,8 @@
         <mxCell id="R_Yq7bSZIYQy-dywGom7-10" value="&lt;div align=&quot;left&quot;&gt;Compiled by Vignesh based on a beginner&#39;s understanding of the Buddha Dhamma&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1: March 7, 2025&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1.1: March 9, 2025 (some edits to General panna steps in application technique (overview); adding mindfulness of sanna to anatta/anicca portions of the application technique (overview) section and elaborating further on sanna in application technique (example) section)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1.2: March 10, 2025 (some minor edits)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
           <mxGeometry x="20" y="16.25" width="550" height="113.75" as="geometry" />
         </mxCell>
-        <mxCell id="R_Yq7bSZIYQy-dywGom7-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="dFAU1SVFYO0GLhLQqhiY-84" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="3080" as="sourcePoint" />
-            <mxPoint x="560" y="3150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R_Yq7bSZIYQy-dywGom7-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609.5" y="3080" as="sourcePoint" />
-            <mxPoint x="609.5" y="2870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R_Yq7bSZIYQy-dywGom7-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1014.5" y="3080" as="sourcePoint" />
-            <mxPoint x="1014.5" y="2870" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-2" value="exiting indulgence: Chanting, mindful open awareness in daily life- bodily sensations/sights/sounds etc, sila (routines, wholesome livelihood, action, speech)&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2970" width="760" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
