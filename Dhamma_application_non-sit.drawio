@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Page-1" id="TuVlbN-ZKWJk66FvhOgv">
-    <mxGraphModel dx="1346" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2446" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,13 +185,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-119" value="" style="group;fillColor=#FFCCCC;strokeColor=#d6b656;rounded=1;glass=1;shadow=0;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry y="3080" width="1220" height="1560" as="geometry" />
+          <mxGeometry y="3080" width="1220" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-120" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;application technique (example)&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFCCCC,#5E3206);gradientColor=none;strokeColor=light-dark(#FF9999,#6D5100);shadow=0;fillStyle=dashed;" parent="1" vertex="1">
           <mxGeometry x="540" y="3110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-121" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Q: Is there an example where the application technique (overview) can be expanded upon and applied? &lt;br&gt;&lt;/i&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;i&gt;A: The application technique (overview) can be applied to m&lt;/i&gt;&lt;/u&gt;&lt;u&gt;&lt;i&gt;any types of indulgences in day-to-day non-sit settings&lt;/i&gt;&lt;/u&gt;&lt;u&gt;&lt;i&gt; that involve the unwholesome roots and hindrances. &lt;/i&gt;&lt;/u&gt;&lt;u&gt;&lt;i&gt;&lt;span style=&quot;color: rgb(0, 153, 0);&quot;&gt;The following is a specific example with respect to worry (i.e. one of the 5 hindrances); the specific kind of worry discussed here is the worry associated with negative judgment (or lack of positive validation) by other individuals, groups, or society at large:&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#FFFFCC,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="3220" width="500" height="150" as="geometry" />
+          <mxGeometry x="360" y="3220" width="500" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-128" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="3680" width="350" height="890" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-123" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="3430" width="600" height="200" as="geometry" />
+          <mxGeometry x="310" y="3437.43" width="600" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-124" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="367.5" y="3474" width="465" height="136" as="geometry" />
@@ -226,11 +226,17 @@
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-141" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Review the steps indicated in the &#39;General steps [type: Panna] portion of the &#39;application technique (overview)&#39; section.&lt;/li&gt;&lt;ol&gt;&lt;li&gt;In particular, given that worry (associated with others&#39; negative judgment or lack of positive affirmation) may occur in conjunction with, or as a result of a sense of inadequacy, it may be useful to pay attention to the of part describing an &lt;u&gt;&lt;i&gt;&lt;span style=&quot;color: rgb(153, 76, 0);&quot;&gt;affirming approach&lt;/span&gt;&lt;/i&gt;&lt;/u&gt;.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="3482" width="420" height="118" as="geometry" />
         </mxCell>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-132" target="y6s7UTnHfBE7o3wpDHar-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-132" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Review the steps indicated in the &#39;Awareness of the formulation of dependence [type: Bhavana - non-sit (anatta/anicca)]&#39; portion of the application technique (overview) section.&lt;/li&gt;&lt;li&gt;For the specific situation of worry associated with others&#39; negative judgment or lack of positive affirmation, the following is a one example of how one, at the moment of awareness, could recognize the arising of self-identity, and reflect on the not-self teaching:&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Others&#39; positive judgment of us and our qualities validate us, and negative judgment may threaten us or make us feel insecure. Thus, given our tanha associated with others&#39; judgment, a portion of our self-identity (i.e. clinging &lt;br&gt;to particular combinations of the 5 aggregates) arises perhaps to some degree as a combination of the following: &lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;arising of vedana or feeling tones (e.g. pleasant when we hear something positive about ourselves, and unpleasant if we hear something negative about ourselves), &lt;br&gt;&lt;/li&gt;&lt;li&gt;arising of sanna or associations/perceptions (e.g. the qualities that we associate with ourselves&amp;nbsp;(e.g. important, sensible, responsible, desirable, competent, etc.) that require validation or the reputation we associate with being viewed positively)&lt;/li&gt;&lt;li&gt;arising of sankhara or mental states (e.g. conceit that we indeed possess certain qualities that are indeed worth validating and greed with respect to wanting validation from others, and any intention to position ourselves to receive such validation),&lt;/li&gt;&lt;li&gt;arising of vinnana or sense-base consciousness (e.g. our attuned input &lt;br&gt;facilitators in interacting with the world and our own mind/body, with respect to hearing judgment/feedback) &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;However, given that the self-identity discussed in paragraph 2.1 is dependent on ultimately unreliable conditioned phenomena such as others&#39; positive judgment, to provide satisfaction/validation, we eventually face dukkha. If, however, we recognize that the portion of our self-identity (i.e. clinging to particular combinations of the 5 aggregates described in paragraph 2.1) involving others&#39; judgment arose merely hingimg on tanha (which itself is conditioned phenomena) and would have arisen differently if our tanha was different, then we can recognize that that particular combination of the 5 aggregates is not really our self, and make progress in alleviating our dukkha.&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="3680" width="350" height="890" as="geometry" />
         </mxCell>
         <mxCell id="dFAU1SVFYO0GLhLQqhiY-133" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;Awareness of the formulation of dependence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;u&gt;[&lt;i&gt;type&lt;/i&gt;: Bhavana - non-sit (anatta/anicca)]&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="3680" width="315" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R_Yq7bSZIYQy-dywGom7-6" target="y6s7UTnHfBE7o3wpDHar-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-6" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Review the steps indicated in the &#39;Awareness of the (more) overt indicators of dependence [type: kamma, Sila]&#39; portion of the application technique (overview) section.&lt;/li&gt;&lt;li&gt;For the specific situation of worry associated with others&#39; negative judgment or lack of positive validation, at the moment of awareness, it may be useful to trace back an indulgence to the kamma that preceded it, as there may be something there that needs to be addressed:&lt;/li&gt;&lt;ol&gt;&lt;li&gt;This is important because sometimes worry about others&#39; negative judgment may be due something questionable or unwholesome we may have engaged in the past. In such a case, it is useful to identify clearly what that unwholesome speech, action or thought was, and address it in the appropriate manner. In situations where it is possible and suitable to address it directly with the relevant party/parties, we can do so; however, in some situations, where there isn&#39;t a possible or suitable avenue to address directly, one can acknowledge the unwholesome of the speech, action, or thought to oneself, and extend a compassionate thought toward the affected beings. Review paragraph 2.3 of the &#39;Awareness of the implications of dependence [type: Bhavana - non-sit (Brahmaviharas)]&#39; portion of the application technique (overview) section, which emphasizes how even something simple as a compassionate thought can prime oneself to exercise the brahmaviharas in speech and action as well, should the appropriate opportunity arise. &lt;br&gt;&lt;/li&gt;&lt;li&gt;It may be useful to combine paragraph 2.1 with the techniques described in &#39;General steps [type: Panna - affirming] portion of the &#39;application technique (overview)&#39; section as acknowledging something unwholesome that we had engaged in the past, even to our ownselves, can seem as though something is &quot;wrong&quot; with us - hence, an affirming approach can be helpful.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=light-dark(#11FFBF,var(--ge-dark-color, #121212));glass=1;dashed=1;dashPattern=12 12;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="3680" width="350" height="890" as="geometry" />
@@ -239,13 +245,19 @@
           <mxGeometry x="885" y="3697.5" width="260" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-12" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1" y="4700" width="580" height="140" as="geometry" />
+          <mxGeometry x="-1.87" y="4760" width="580" height="140" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
           <mxGeometry width="580" height="140" as="geometry" />
         </mxCell>
         <mxCell id="R_Yq7bSZIYQy-dywGom7-10" value="&lt;div align=&quot;left&quot;&gt;Compiled by Vignesh based on a beginner&#39;s understanding of the Buddha Dhamma&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1: March 7, 2025&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1.1: March 9, 2025 (some edits to General panna steps in application technique (overview); adding mindfulness of sanna to anatta/anicca portions of the application technique (overview) section and elaborating further on sanna in application technique (example) section)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;v1.2: March 10, 2025 (some minor edits)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="R_Yq7bSZIYQy-dywGom7-12" vertex="1">
           <mxGeometry x="20" y="16.25" width="550" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-16" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Exiting indulgence&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Review the steps in the &#39;Exiting Indulgence&#39; portion of the application (technique) overview section.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CEFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="4610" width="760" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-129" target="y6s7UTnHfBE7o3wpDHar-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
