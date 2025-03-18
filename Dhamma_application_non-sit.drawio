@@ -274,6 +274,9 @@
         <mxCell id="y6s7UTnHfBE7o3wpDHar-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dFAU1SVFYO0GLhLQqhiY-129" target="y6s7UTnHfBE7o3wpDHar-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="y6s7UTnHfBE7o3wpDHar-24" value="&lt;div align=&quot;left&quot;&gt;To add:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;portion where there is &#39;note the indulgence&#39; - indicate is occurring and has occurred&lt;/li&gt;&lt;li&gt;portion below &#39;note the indulgence&#39; - recognize manosikara and cetana, especially if indulgence is currently occurring, and if it is strong&lt;/li&gt;&lt;li&gt;add pre-indulgence kamma and misperception by others and myself into panna section; recognize kamma and misperception &lt;br&gt;&lt;/li&gt;&lt;li&gt;add trying to daydream/will because of greed/fear about self-identity not being satisfied/validated &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="4760" width="320" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
